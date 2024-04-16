@@ -1,0 +1,25 @@
+.header__inner {
+  height: 92px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header__inner .logo__header {
+  margin-right: 60px;
+}
+.header__inner .nav__header {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.header__inner .contacts {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+.header__inner .contacts__wrapper {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}/*# sourceMappingURL=header.css.map */

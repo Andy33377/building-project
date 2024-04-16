@@ -1,0 +1,33 @@
+
+
+.header__inner {
+    height: 92px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+    .logo__header {
+      margin-right: 60px;
+    }
+    .nav__header {
+      list-style-type: none;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      
+    }
+  
+    .contacts {
+      display: flex;
+      align-items: center;
+      gap: 2rem;
+    }
+  
+    .contacts__wrapper {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+  
+  }
+  

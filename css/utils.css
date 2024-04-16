@@ -1,0 +1,14 @@
+.base__bold {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 160%;
+  letter-spacing: 0%;
+  color: var(--gray800);
+}
+@media screen and (max-width: 768px) {
+  .base__bold {
+    font-size: 14px;
+    line-height: 140%;
+    letter-spacing: 0%;
+  }
+}/*# sourceMappingURL=utils.css.map */
